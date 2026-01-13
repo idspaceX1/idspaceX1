@@ -1,6 +1,8 @@
 # Hi, I'm idspaceX1 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=idspaceX1&color=blueviolet)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:idspacex1@protonmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](/)
 
 Software Developer focused on building practical, maintainable web applications and exploring low-level systems logic.  
 I work on real-world projects rather than simple demos, solving actual business needs through code.
